@@ -1,6 +1,3 @@
-Thank you for specifying the repository name. I've updated the README template accordingly:
-
-```markdown
 # Portfolio Website
 
 Welcome to my Flutter portfolio website repository! This repository contains the source code for my Flutter-based portfolio website.
