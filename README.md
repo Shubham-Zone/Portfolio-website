@@ -72,6 +72,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## Contact
 
 - **Email**: devshubham652@gmail.com
-- **LinkedIn**: [YourLinkedInProfile](https://www.linkedin.com/in/shubham-kumar-33748a229/)
-- **GitHub**: [YourGitHubProfile](https://github.com/Shubham-Zone)
+- **LinkedIn**: [My linkedin](https://www.linkedin.com/in/shubham-kumar-33748a229/)
+- **GitHub**: [My github](https://github.com/Shubham-Zone)
 ```
