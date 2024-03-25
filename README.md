@@ -12,9 +12,7 @@ Welcome to my Flutter portfolio website repository! This repository contains the
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About
@@ -67,24 +65,13 @@ To get a local copy up and running, follow these simple steps:
 
 Feel free to explore the source code to understand how the website is structured and implemented. If you have any questions or feedback, don't hesitate to reach out to me.
 
-## Screenshots
-
-Include screenshots or GIFs of your website here to provide a visual preview of your portfolio.
-
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [YourLinkedInProfile](https://www.linkedin.com/in/yourlinkedinprofile/)
-- **Portfolio**: [YourPortfolioWebsite](https://www.yourportfoliowebsite.com/)
-- **GitHub**: [YourGitHubProfile](https://github.com/YourGitHubProfile)
+- **Email**: devshubham652@gmail.com
+- **LinkedIn**: [YourLinkedInProfile](https://www.linkedin.com/in/shubham-kumar-33748a229/)
+- **GitHub**: [YourGitHubProfile](https://github.com/Shubham-Zone)
 ```
-
-This README template is customized for your "Portfolio-website" repository. Make sure to update the placeholders with your actual information and add any additional details or sections as needed.
